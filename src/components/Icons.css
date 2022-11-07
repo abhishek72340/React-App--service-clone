@@ -1,0 +1,23 @@
+*{
+    margin:0;
+    padding:0;
+    
+}
+.html{
+    font-size: 16px;
+}
+.icons-section{
+height:35rem;
+width:93.6rem;
+background-color: white;
+margin:1rem 1.3rem;
+box-shadow: 0.3rem 1rem  1.4rem gainsboro;
+border-radius: 1rem;
+    
+}
+@media screen and (max-width:769px){
+
+    html{
+        font-size: 5px;
+    }
+}
